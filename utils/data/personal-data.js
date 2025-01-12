@@ -1,17 +1,14 @@
 export const personalData = {
-  name: "ABU SAID",
+  name: "Mert Kaan GUNES",
   profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  designation: "Software Engineer",
+  description: "As an aspiring computer engineer with a strong foundation in software development, I am passionate about problem-solving, lifelong learning, and creating efficient, scalable solutions. I specialize in software development using a variety of programming languages, with a keen interest in mobile application development. My goal is to contribute to projects that push the boundaries of technology while cultivating healthy, collaborative professional relationships.",
+  email: 'mert12kaan01@gmail.com',
+  address: 'Turkey, Samsun, Ilkadim ',
+  github: 'https://github.com/Mert-Gunes',
+  linkedIn: 'https://www.linkedin.com/in/mertgunesh/',
+  stackOverflow: 'https://stackoverflow.com/users/20769655/mertkaan-g%c3%bcne%c5%9f',
+  leetcode: "https://leetcode.com/u/Mertgunesh/",
+  devUsername: "MertGunesh",
+  resume: "TODO"
 }
